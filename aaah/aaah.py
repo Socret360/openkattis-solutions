@@ -1,3 +1,5 @@
+# https://open.kattis.com/problems/aaah
+
 jon = input()
 doctor = input()
 
