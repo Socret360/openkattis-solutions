@@ -73,5 +73,5 @@ int main()
     }
   }
 
-  std::cout << total;
+  std::printf("%.3f", total);
 }
